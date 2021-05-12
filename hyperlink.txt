@@ -1,0 +1,7 @@
+https://pusher.com/tutorials/geofencing-nestjs-googlemaps
+http://turfjs.org/
+https://www.youtube.com/watch?v=nmAtMqljH9M
+https://pusher.com/tutorials/geofencing-ember
+https://www.telerik.com/blogs/real-time-geofencing-location-monitoring-using-socketio-vue
+https://docs.kuzzle.io/core/1/guides/code-examples/geofencing/javascript/
+https://docs.kuzzle.io/core/1/guides/code-examples/geofencing/javascript/
